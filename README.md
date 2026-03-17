@@ -20,7 +20,6 @@ A proposta deste projeto é construir um caderno temático utilizando o Notebook
 ## Ferramentas utilizadas
 - NotebookLM
 - GitHub
-- Markdown
 
 ## Tema escolhido
 **Metodologia de investimento do Benjamin Graham**
