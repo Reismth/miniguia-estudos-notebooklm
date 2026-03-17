@@ -13,7 +13,7 @@ A proposta deste projeto é construir um caderno temático utilizando o Notebook
 - Produzir um material final de apoio para revisões futuras.
 
 ## Estrutura do repositório
-- `fontes/`: lista de fontes utilizadas no estudo;
+- `fontes/links-fontes.md`: lista de fontes utilizadas no estudo;
 - `prompts/`: registro dos prompts testados e observações;
 - `entrega-final/`: material final consolidado com resumos, glossário e prompts reutilizáveis.
 
